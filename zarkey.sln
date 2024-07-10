@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZARKEY", "zarkey\ZARKEY.csproj", "{7C44BB75-314A-4158-9A4B-0E082F10541D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ZARKEYGEN", "ZARKEYGEN\ZARKEYGEN.vdproj", "{779F63E0-1D58-411E-A4A8-70C434D8936F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C44BB75-314A-4158-9A4B-0E082F10541D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C44BB75-314A-4158-9A4B-0E082F10541D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C44BB75-314A-4158-9A4B-0E082F10541D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C44BB75-314A-4158-9A4B-0E082F10541D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779F63E0-1D58-411E-A4A8-70C434D8936F}.Debug|Any CPU.ActiveCfg = Debug
+		{779F63E0-1D58-411E-A4A8-70C434D8936F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F92BC04-829D-46D8-9793-4632BF41BFE6}
+	EndGlobalSection
+EndGlobal
